@@ -1,2 +1,2 @@
 # zip_code_pop
-Combining publicly available US census data to estimate population by zip code
+Combining publicly available county-level US census data with a county-ZIP crosswalk to estimate population by zip code
